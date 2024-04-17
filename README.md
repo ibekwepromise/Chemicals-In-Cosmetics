@@ -28,7 +28,6 @@ The main goal of this project is to explore various aspects of the dataset, incl
 ## Observations 
 - There are total of 112 unique chemicals reported in this dataset. 
 - 33,361 reported products and 587 unique company in the dataset.
-- According to Word Health Organization's list of 10 chemicals of major concerns combined with Campaign for Safe Cosmetics includes Coal Tar, Mica, Carbon Black, 14-Dioxane, Titanium Dioxide, Toluene, Talc etc. Heavy metals like Lead, Arsenic, Mercury, Cadmium, Chromium. These chemicals can cause immediate irritation ans some other effects even with low amount of exposure. For more details on the top chemicals of major concerns, please visit this link [Campaign for Safe Cosmetics](https://www.safecosmetics.org)
 
 ## Data Cleaning 
 1) Converted Date Columns From  DateTime Format to Just Date Format:
@@ -68,4 +67,11 @@ The main goal of this project is to explore various aspects of the dataset, incl
   - ChemicalCreatedAt
   - ChemicalUpdatedAt
   - ChemicalDateRemoved
+
+## Mostly Used Chemicals in Cosmetic Products
+![](MostUsedChemicals.PNG)
    
+## Harmful Chemicals
+![](RemovedChemicals.PNG)
+
+- According to Word Health Organization's list of chemicals of major concerns combined with Campaign for Safe Cosmetics includes Coal Tar, Mica, Carbon Black, 14-Dioxane, Titanium Dioxide, Toluene, Talc etc. Heavy metals like Lead, Arsenic, Mercury, Cadmium, Chromium. These chemicals can cause immediate irritation ans some other effects even with low amount of exposure. For more details on the top chemicals of major concerns, please visit this link [Campaign for Safe Cosmetics](https://www.safecosmetics.org)
