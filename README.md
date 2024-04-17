@@ -16,11 +16,9 @@ I used Microsoft SQL Server, with SQL Server Management Studio (SSMS) as the int
 The main goal of this project is to explore various aspects of the dataset, including product distribution, chemical usage and company practices, providing insights into the landscape of cosmetics and their chemical compositions. In order to achieve this goal, I will be answering the following business questions. 
 
 ## OBSERVATIONS 
-. There are total of 123 unique chemicals reported in this dataset. 
+. There are total of 112 unique chemicals reported in this dataset. 
 
-. Total of 2729 products contain Very Harmful out of 34908 reported products, which is approximately 7% the number seems pretty low.
-
-. Total of 244 companies reported products contain Very Harmful chemical out of 584 reported companies.
+. There are 587 unique company in the dataset.
 
 . According to Word Health Organization's list of 10 chemicals of major concerns combined with Campaign for Safe Cosmetics includes heavy metals like Lead, Arsenic, Mercury, Cadmium, and Chromium. These chemicals can cause immediate irritation ans some other effects even with low amount of exposure.
 
